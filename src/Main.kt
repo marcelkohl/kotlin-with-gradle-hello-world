@@ -1,3 +1,7 @@
 fun main(args: Array<String>) {
-    println("Hello World")
+    val age = 28
+    // age = 99 //val is like a constant
+    println(age)
+    var candy = "snickers"
+    println(candy)
 }
