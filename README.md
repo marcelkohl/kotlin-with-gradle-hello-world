@@ -2,8 +2,8 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
-# Kotlin with gradle on docker
-This repository is the attempt to run Kotlin code using gradle on Docker.
+# Kotlin with gradle
+This repository is the attempt to run Kotlin code using gradle.
 
 **PS:** Everything was done running on a Linux Ubuntu environment and may have differences among other OSs.
 
@@ -18,7 +18,6 @@ Things to not forget when setting-up
 Ideal setup for this project is:
 - Java Oracle (JDK 11.0.10)
 - Gradle (to create the initial wrapper)
-- Docker (20.10.5)
 
 ## Running code
 ### Generate graddle wrapper
